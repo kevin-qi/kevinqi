@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/kevinqi/static/css/main.7e50da47.chunk.css",
+    "main.js": "/kevinqi/static/js/main.b075965c.chunk.js",
+    "main.js.map": "/kevinqi/static/js/main.b075965c.chunk.js.map",
+    "runtime-main.js": "/kevinqi/static/js/runtime-main.380babf3.js",
+    "runtime-main.js.map": "/kevinqi/static/js/runtime-main.380babf3.js.map",
+    "static/css/2.510409cd.chunk.css": "/kevinqi/static/css/2.510409cd.chunk.css",
+    "static/js/2.a733baf9.chunk.js": "/kevinqi/static/js/2.a733baf9.chunk.js",
+    "static/js/2.a733baf9.chunk.js.map": "/kevinqi/static/js/2.a733baf9.chunk.js.map",
+    "index.html": "/kevinqi/index.html",
+    "precache-manifest.8a8e12b688281dcece39d7bd931ad3e6.js": "/kevinqi/precache-manifest.8a8e12b688281dcece39d7bd931ad3e6.js",
+    "service-worker.js": "/kevinqi/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/kevinqi/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.7e50da47.chunk.css.map": "/kevinqi/static/css/main.7e50da47.chunk.css.map",
+    "static/media/CVD_graphene.jpg": "/kevinqi/static/media/CVD_graphene.d939ce4c.jpg",
+    "static/media/ProteinRank.jpg": "/kevinqi/static/media/ProteinRank.ee214ec8.jpg",
+    "static/media/bittermelon_salad.jpg": "/kevinqi/static/media/bittermelon_salad.625486f6.jpg",
+    "static/media/graphene_transfer.jpg": "/kevinqi/static/media/graphene_transfer.74bbf9c6.jpg",
+    "static/media/labview.jpg": "/kevinqi/static/media/labview.54ea01b5.jpg",
+    "static/media/linkedin.jpg": "/kevinqi/static/media/linkedin.1a66a1dc.jpg",
+    "static/media/mala_dry_pot.jpg": "/kevinqi/static/media/mala_dry_pot.4f35be41.jpg",
+    "static/media/mancini.jpg": "/kevinqi/static/media/mancini.5cac7732.jpg",
+    "static/media/miso_glazed_blackcod.jpg": "/kevinqi/static/media/miso_glazed_blackcod.0cf16491.jpg",
+    "static/media/pdms_microscope.jpg": "/kevinqi/static/media/pdms_microscope.8495c848.jpg",
+    "static/media/profile.jpg": "/kevinqi/static/media/profile.a6154182.jpg",
+    "static/media/qPlus_sensor.jpg": "/kevinqi/static/media/qPlus_sensor.fdf6de34.jpg",
+    "static/media/sichuan_cold_noodles.jpg": "/kevinqi/static/media/sichuan_cold_noodles.7489c38e.jpg",
+    "static/media/stuffed_bellpeppers.jpg": "/kevinqi/static/media/stuffed_bellpeppers.b6e3c651.jpg",
+    "static/media/sweet_sour_lotusroot.jpg": "/kevinqi/static/media/sweet_sour_lotusroot.796eb714.jpg",
+    "static/media/test.jpg": "/kevinqi/static/media/test.95617695.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.380babf3.js",
+    "static/css/2.510409cd.chunk.css",
+    "static/js/2.a733baf9.chunk.js",
+    "static/css/main.7e50da47.chunk.css",
+    "static/js/main.b075965c.chunk.js"
+  ]
+}
