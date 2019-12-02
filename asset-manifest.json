@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kevinqi/static/css/main.7e50da47.chunk.css",
-    "main.js": "/kevinqi/static/js/main.b075965c.chunk.js",
-    "main.js.map": "/kevinqi/static/js/main.b075965c.chunk.js.map",
+    "main.js": "/kevinqi/static/js/main.6edfd6a0.chunk.js",
+    "main.js.map": "/kevinqi/static/js/main.6edfd6a0.chunk.js.map",
     "runtime-main.js": "/kevinqi/static/js/runtime-main.380babf3.js",
     "runtime-main.js.map": "/kevinqi/static/js/runtime-main.380babf3.js.map",
     "static/css/2.510409cd.chunk.css": "/kevinqi/static/css/2.510409cd.chunk.css",
     "static/js/2.a733baf9.chunk.js": "/kevinqi/static/js/2.a733baf9.chunk.js",
     "static/js/2.a733baf9.chunk.js.map": "/kevinqi/static/js/2.a733baf9.chunk.js.map",
     "index.html": "/kevinqi/index.html",
-    "precache-manifest.8a8e12b688281dcece39d7bd931ad3e6.js": "/kevinqi/precache-manifest.8a8e12b688281dcece39d7bd931ad3e6.js",
+    "precache-manifest.647249902a289f2036b67421a3b07abf.js": "/kevinqi/precache-manifest.647249902a289f2036b67421a3b07abf.js",
     "service-worker.js": "/kevinqi/service-worker.js",
     "static/css/2.510409cd.chunk.css.map": "/kevinqi/static/css/2.510409cd.chunk.css.map",
     "static/css/main.7e50da47.chunk.css.map": "/kevinqi/static/css/main.7e50da47.chunk.css.map",
@@ -35,6 +35,6 @@
     "static/css/2.510409cd.chunk.css",
     "static/js/2.a733baf9.chunk.js",
     "static/css/main.7e50da47.chunk.css",
-    "static/js/main.b075965c.chunk.js"
+    "static/js/main.6edfd6a0.chunk.js"
   ]
 }

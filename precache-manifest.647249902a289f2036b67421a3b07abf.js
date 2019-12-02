@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f3951427ae3df8371cb4820915cecdc",
+    "revision": "c0bffc1be6e3a9e2d4d92ef547fa1d78",
     "url": "/kevinqi/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kevinqi/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "c669b5b9f4d9f42e7e6f",
+    "revision": "fd1efeb988e32c2bd88d",
     "url": "/kevinqi/static/css/main.7e50da47.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kevinqi/static/js/2.a733baf9.chunk.js"
   },
   {
-    "revision": "c669b5b9f4d9f42e7e6f",
-    "url": "/kevinqi/static/js/main.b075965c.chunk.js"
+    "revision": "fd1efeb988e32c2bd88d",
+    "url": "/kevinqi/static/js/main.6edfd6a0.chunk.js"
   },
   {
     "revision": "6e944f59e1d65eba53a3",
