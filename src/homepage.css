@@ -1,0 +1,29 @@
+.page-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.row {
+	margin-left: calc((100vw - 100%) / -2);
+	padding-left: calc((100vw - 100%) / 2);
+	margin-right: calc((100vw - 100%) / -2);
+	padding-right: calc((100vw - 100%) / 2);
+}
+
+#bio {
+	padding-top: 50px;
+	background-color: #EEFFFE;
+	padding-bottom: 100px;
+}
+
+#projects {
+	padding-top: 70px;
+	padding-bottom: 100px;
+}
+
+#cooking {
+	padding-top: 70px;
+	background-color: #EEFFFE;
+	padding-bottom: 100px;
+}

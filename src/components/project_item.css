@@ -1,0 +1,28 @@
+img {
+	height:100%;
+	width:100%;
+}
+
+.overlay_wrapper:hover img{
+	opacity: 0.5;
+}
+
+#overlay {
+	opacity: 0;
+	position: absolute;
+	text-align: center;
+	top:20px;
+	left:0;
+	width:100%;
+	height:100%;
+	color: white;
+}
+
+.overlay_wrapper:hover #overlay{
+	opacity: 1;
+}
+
+.overlay_wrapper {
+	background-color: black;
+}
+

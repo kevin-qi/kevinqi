@@ -1,0 +1,34 @@
+a:hover {
+	cursor: pointer;
+	font-weight: bold;
+	letter-spacing: 0;
+}
+
+a {
+	letter-spacing: 0.65px;
+}
+
+.nav {
+	position:fixed;
+	top:0;
+	left:0;
+	margin: auto;
+	width: 100%;
+}
+
+.navbar {
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #EEFFFE !important;
+}
+
+.nav-links {
+	display: flex;
+}
+
+.nav-item{
+	display:flex;
+	padding-left: 15px;
+}
