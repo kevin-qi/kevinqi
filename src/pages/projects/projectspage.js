@@ -16,7 +16,7 @@ class ProjectsPage extends Component {
         </Row>
         <Row>
           <Col><ProjectItem 
-                  name='ProteinRank' 
+                  name='prorank' 
                   github_url="https://github.com/kevin-qi/LTR-proteins"
                   title='Navigating a 4D Fitness Landscape with Machine Learning'
                   desc=''/>
@@ -31,9 +31,9 @@ class ProjectsPage extends Component {
         <Row> <Col> <hr/> </Col></Row>
         <Row>
           <Col><ProjectItem 
-                  name='test' 
+                  name='bev_tracker_app' 
                   github_url="https://github.com/kevin-qi/leggo-calhacks"
-                  title='DrinksTracking App'/>
+                  title='Beverage Tracker'/>
           </Col>
 
           <Col><ProjectItem 

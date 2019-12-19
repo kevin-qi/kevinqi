@@ -25,7 +25,7 @@ class ProjectItem extends Component {
 		}
 		return (
 			<div>
-				<a href={this.props.github_url}>
+				<a href={this.props.github_url} target = "_blank">
 					<div class="overlay_wrapper">
 							<img fluid
 								src={require('../imgs/'+this.props.name+'.jpg')}
