@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0bffc1be6e3a9e2d4d92ef547fa1d78",
+    "revision": "5739e68326e6b8df9a8d11dcb0f512a9",
     "url": "/kevinqi/index.html"
   },
   {
-    "revision": "dc6aa78f440621140137",
-    "url": "/kevinqi/static/css/2.510409cd.chunk.css"
+    "revision": "5de29125102ec38b408d",
+    "url": "/kevinqi/static/css/2.247797c6.chunk.css"
   },
   {
-    "revision": "fd1efeb988e32c2bd88d",
-    "url": "/kevinqi/static/css/main.7e50da47.chunk.css"
+    "revision": "ae780e4d735e03e8e173",
+    "url": "/kevinqi/static/css/main.cbf4192c.chunk.css"
   },
   {
-    "revision": "dc6aa78f440621140137",
-    "url": "/kevinqi/static/js/2.a733baf9.chunk.js"
+    "revision": "5de29125102ec38b408d",
+    "url": "/kevinqi/static/js/2.5059966b.chunk.js"
   },
   {
-    "revision": "fd1efeb988e32c2bd88d",
-    "url": "/kevinqi/static/js/main.6edfd6a0.chunk.js"
+    "revision": "ae780e4d735e03e8e173",
+    "url": "/kevinqi/static/js/main.94de2927.chunk.js"
   },
   {
     "revision": "6e944f59e1d65eba53a3",
@@ -28,8 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kevinqi/static/media/CVD_graphene.d939ce4c.jpg"
   },
   {
+    "revision": "2245298b664a41f87e98b2bea87b07cc",
+    "url": "/kevinqi/static/media/Kevin_Qi_Resume.2245298b.pdf"
+  },
+  {
     "revision": "ee214ec8cce54ba7596328d87e508749",
     "url": "/kevinqi/static/media/ProteinRank.ee214ec8.jpg"
+  },
+  {
+    "revision": "f01df52e1c3bc4b88a4abe5053ae3ddd",
+    "url": "/kevinqi/static/media/bev_tracker_app.f01df52e.jpg"
   },
   {
     "revision": "625486f673c110bb6b6a8942bf67847a",
@@ -64,8 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kevinqi/static/media/pdms_microscope.8495c848.jpg"
   },
   {
-    "revision": "a61541825428e14e84748b148b63ed31",
-    "url": "/kevinqi/static/media/profile.a6154182.jpg"
+    "revision": "cf888187f1a75cdc02f1731b4ce6a6b0",
+    "url": "/kevinqi/static/media/profile.cf888187.jpg"
+  },
+  {
+    "revision": "098a3a3c5476ffd144d357568a72ab9c",
+    "url": "/kevinqi/static/media/prorank.098a3a3c.jpg"
   },
   {
     "revision": "fdf6de347c0b5e4148066c2da6c5fa61",
